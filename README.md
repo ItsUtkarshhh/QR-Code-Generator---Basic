@@ -1,2 +1,1 @@
-# QR-Code-Generator---Basic
-This is a simple QR Code generator, using only qrcode and PIL library of python
+This is a simple Python project that helps to create a QR code using python's qrcode and PIL libraries. QR codes are 2-D barcodes that can store various types of data, such as text, URLs, contact information, and more.
